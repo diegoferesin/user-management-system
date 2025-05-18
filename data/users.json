@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": "183c4edd-5c71-4815-a731-ad39e2c6cf85",
+        "name": "Diego",
+        "email": "feresin@gmail.com",
+        "password": "Password!!!#123fjals"
+    },
+    {
+        "user_id": "61df16a9-f4e0-47fd-ade7-3fd46abba5af",
+        "name": "Miguel",
+        "email": "miguel@gmail.com",
+        "password": "Miguel1234#Dolores"
+    },
+    {
+        "user_id": "98adda87-4981-4166-b729-04113fdc9fec",
+        "name": "Hol",
+        "email": "hol@gmail.com",
+        "password": "PAsswotrd#233jfwdkn"
+    }
+]

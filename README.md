@@ -23,7 +23,7 @@ A Python-based user management system that provides a console interface for mana
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone git@github.com:diegoferesin/user-management-system.git
 ```
 
 2. Create and activate a virtual environment:
